@@ -38,6 +38,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me **kangvcar@gmail.com**
 
 <p align="center">
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linux.svg" />
+<p>
+<!--
+<p align="center">
 <img src="https://konpa.github.io/devicon/devicon.git/icons/redhat/redhat-original-wordmark.svg" alt="redhat" width="20" height="20"/> 
 <img src="https://konpa.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="20" height="20"/> 
 <img src="https://konpa.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="20" height="20"/> 
@@ -51,7 +55,7 @@ Here are some ideas to get you started:
 <img src="https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/> 
 <img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> 
 </p>
-
+-->
 
 <p align="center">
 <a href="https://twitter.com/kangvcar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kangvcar" height="20" width="20" /></a>
