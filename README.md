@@ -29,9 +29,9 @@ Here are some ideas to get you started:
 
 - 🤔 I’m looking for help with **ML, Quant**
 
-- 👨‍💻 All of my projects are available at [https://github.com/kangvcar](https://github.com/kangvcar)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/kangvcar)
 
-- 📝 I regulary write articles on [http://blog.csdn.net/kangvcar](http://blog.csdn.net/kangvcar)
+- 📝 I regulary write articles on [CSDN](http://blog.csdn.net/kangvcar)
 
 - 💬 Ask me about **Linux, Python**
 
