@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate developer from china</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kangvcar" alt="kangvcar" /> </p>
 
-- 🔭 I’m currently working on [InfoSpider](https://github.com/kangvcar/InfoSpider)
+- 🔭 I’m currently working on [InfoSpider](https://github.com/kangvcar/InfoSpider), [Wendy](https://github.com/kangvcar/Wendy)
 
 - 🌱 I’m currently learning **ML, NLP, Quant**
 
