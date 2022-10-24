@@ -21,13 +21,13 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate developer from china</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kangvcar" alt="kangvcar" /> </p>
 
-- 🔭 I’m currently working on [InfoSpider](https://github.com/kangvcar/InfoSpider), [Insighter](https://github.com/kangvcar/Insighter)
+- 🔭 I’m currently working on [Hacking Write-ups](https://github.com/kangvcar/Hacking-Write-ups), [InfoSpider](https://github.com/kangvcar/InfoSpider), [Insighter](https://github.com/kangvcar/Insighter)
 
-- 🌱 I’m currently learning **ML, NLP, Quant**
+- 🌱 I’m currently learning **Cyber Security, DevOps**
 
-- 👯 I’m looking to collaborate on **Alibaba, Tencent**
+- 👯 I’m looking to collaborate on **NSFOCUS**
 
-- 🤔 I’m looking for help with **ML, Quant**
+- 🤔 I’m looking for help with **Cyber Security, DevOps, Quant**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/kangvcar)
 
