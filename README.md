@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/kangvcar)
 
-- 📝 I regulary write articles on [CSDN](http://blog.csdn.net/kangvcar)
+- 📝 I regulary write articles on [Hacking Write-ups](https://wp.hvvyxs.com)
 
 - 💬 Ask me about **Linux, Python**
 
