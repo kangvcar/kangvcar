@@ -75,7 +75,3 @@ Here are some ideas to get you started:
 <img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> 
 </p>
 -->
-
-<p align="center">
-<a href="https://twitter.com/kangvcar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kangvcar" height="20" width="20" /></a>
-</p>
