@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 </p>
 -->
 <h1 align="center">Hi 👋, I'm Kang Vcar</h1>
-<h3 align="center">A passionate developer from china</h3>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kangvcar" alt="kangvcar" /> </p>
 
 - 🔭 I’m currently working on [AppleIdChecker](https://github.com/kangvcar/AppleIdChecker), [Hacking Write-ups](https://github.com/kangvcar/Hacking-Write-ups), [InfoSpider](https://github.com/kangvcar/InfoSpider), [Insighter](https://github.com/kangvcar/Insighter)
